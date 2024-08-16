@@ -1,1 +1,1 @@
-A basic JS email sender to an external eail via POST requests
+A basic JS email sender to an external email via POST requests
